@@ -30,9 +30,3 @@ function determinareVincitore(somma, scelta) {
         console.log("Ha vinto il computer!");
     }
 }
-
-
-
-
-
-
